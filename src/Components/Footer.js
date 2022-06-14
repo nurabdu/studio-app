@@ -62,7 +62,7 @@ const Footer = () => (
        <div className="icon">
         <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
           <div className="email"><p>Email:</p></div>
-            <span className="adress"><p>abdirashitov.b@gmail.com</p></span>
+            <span className="adress"><p>abdirashitov.beknur@gmail.com</p></span>
             </div>
            <div className="idbrend">
           <p>web studio 312</p>

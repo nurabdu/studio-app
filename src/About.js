@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import styles from "styled-components";
 import Content from './Components/Content';
 import Data from './Data';
-import {Button} from 'react-bootstrap';
 
 const Style = styles.div`
     
